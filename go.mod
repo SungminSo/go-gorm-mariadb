@@ -1,4 +1,4 @@
-module maria
+module github.com/SungminSo/go-gorm-mariadb
 
 go 1.13
 
